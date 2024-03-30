@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.12.2",
+    "typescript": "^5.4.3"
+  },
+  "name": "typescript-mongodb-api-template",
+  "version": "1.0.0",
+  "description": "API Template Using Typescript and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravilock/typescript-mongodb-api-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravilock/typescript-mongodb-api-template/issues"
+  },
+  "homepage": "https://github.com/ravilock/typescript-mongodb-api-template#readme"
+}
